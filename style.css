@@ -1,0 +1,24 @@
+.heading{
+    height:40px;
+    background-color: black;
+    color:white;
+    text-align:center;
+}
+
+.hero{
+    background-color: aqua;
+}
+
+#main{
+    text-align: center;
+}
+
+.hero{
+    background-color: rgba(0,255,0,0.5);
+}
+
+#footer{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+}
